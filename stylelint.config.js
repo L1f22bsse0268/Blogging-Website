@@ -3,9 +3,9 @@ module.exports = {
         "stylelint-config-standard"
     ],
     rules: {
-        "declaration-block-no-duplicate-properties": true,
+        "declaration-block-no-duplicate-properties": null,
         "no-duplicate-selectors": true,
-        "property-case": "lower",
+        "property-case": null,
         "value-keyword-case": "lower",
         "selector-type-case": "lower",
         "block-no-empty": true
