@@ -5,7 +5,6 @@ module.exports = {
     rules: {
         "declaration-block-no-duplicate-properties": null,
         "no-duplicate-selectors": true,
-        "property-case": null,
         "value-keyword-case": "lower",
         "selector-type-case": "lower",
         "block-no-empty": true
